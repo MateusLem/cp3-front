@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+    box-sizing: border-box;
+    font-family: "Outfit", sans-serif;
+    color: white;
+}
+body{
+    background-color: #2e5b5b;
+}
+header {
+    padding: 10px 0;
+    display: flex;
+    justify-content: center; 
+  }
+  
+  nav ul {
+    display: flex;
+    margin: 0 125px;
+    float: right;
+  }
+  
+  nav ul li {
+    margin: 20px 50px; 
+  }
+  nav ul li a{
+    font-weight: 600;
+    color: white;
+  }
+img{
+  border-radius: 50%;
+  width: 20%;
+  height: 250px;
+  margin: 50px;
+}
+.escopo{
+  padding: 50px;
+  align-items: center;
+  text-align: center;
+}
+
+#modal {
+  width: 50%;
+  height: 400px;
+  border-radius: 15%;
+  display: none;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 10;
+  padding: 20px;
+  background-color: #193f3f;
+  color: #fff;
+  text-align: center;
+}
+
+
+#close {
+  position: absolute;
+  top: 10px;
+  right: 20px;
+  font-size: 20px;
+  cursor: pointer;
+  color: white;
+}
+#modal-itensl{
+  align-items:center ;
+  margin-top: 20px;
+  padding: 20px;
+}
+.contatos{
+  width: 50%;
+  padding: 100px;
+  float: left;
+}
+.box2{
+    float: left;
+    height: 120px;
+    padding: 10px;
+    margin-top: 40px;
+    border-radius: 20px 5px;
+    background-color:#053939;
+    top: 45%; 
+    left: 38%;
+    transform: translate (-45%, -38%); 
+}
+.box3{
+  float: left;
+  margin-top: 65px;
+  margin-bottom: 30px;
+  width: 45%;
+  padding: 80px;
+  background-color: #053939;
+  border-radius: 100px;
+  text-align: center;
+}
+.pacote{
+  align-items: center;
+  text-align: center;
+}

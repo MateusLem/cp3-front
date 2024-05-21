@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/page.css">
+    <title>Pousada Serenata ds Ondas</title>
+</head>
+<body>
+    <header>
+            <nav>
+                <ul>
+                    <li><a href="../../index.html">HOME</a></li>
+                    <li><a href="quartos.html">ACOMODAÇÕES</a></li>
+                    <li><a href="atividades.html">ATIVIDADES</a></li>
+                    <li><a href="galeria.html">GALERIA</a></li>
+                    <li><a href="contato.html">CONTATO</a></li>
+                </ul>
+            </nav>
+    </header>
+    <div class="escopo">
+        <h1>ACOMODAÇÕES</h1>
+        <br>
+        <br>
+        <div id="images">
+            <img onmouseover="openModal('q1')" src="../img/quarto1.jpg" alt="q1">
+            <img onmouseover="openModal('q2')" src="../img/quarto2.jpeg" alt="q2">
+            <img onmouseover="openModal('q3')" src="../img/quarto3.jpg" alt="q3">
+        </div>
+        <div id="modal" style="display:none;">
+            <span id="close" onclick="closeModal()">X</span>
+            <h1 id="modal-title"></h1>
+            <h2 id="modal-description"></h2>
+            <br>
+            <div id="modal-itensl">
+                <p id="modal-itensi"></p>
+                <br>
+                <p id="modal-itenst"></p>
+                <br>
+                <p id="modal-itense"></p>
+                <br>
+                <p id="modal-itensm"></p>
+                <br>
+                <p id="modal-itenss"></p>
+                <br>
+                <p id="modal-itensp"></p> 
+            </div>
+        </div>
+        <br>
+        <br>
+        <p>Nossas acomodações foram cuidadosamente projetadas para proporcionar o máximo de conforto, enquanto você se deixa embalar pelo suave murmúrio do mar. Desperte todas as manhãs com vistas deslumbrantes do oceano e permita-se relaxar em nossas instalações modernas e acolhedoras.</p>        
+    <script src="../js/script.js" ></script>
+</body>
+</html>
