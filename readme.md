@@ -2,6 +2,8 @@
 
 ## Descrição do Projeto
 
+Este projeto é um site para a Pousada Serenata das Ondas, uma pousada à beira-mar que oferece uma experiência única de conforto e tranquilidade. O site é desenvolvido em HTML e CSS, com um pouco de JavaScript para funcionalidades adicionais.
+
 
 ## Detalhes da entrega
 
