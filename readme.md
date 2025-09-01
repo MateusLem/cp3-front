@@ -55,7 +55,7 @@ Chegou a hora de começar a implementar o protótipo criado no FIGMA para o CP2.
 </a>
 <a href="https://github.com/Vitorr-AF" target="_blank" style="text-align: center; margin-right: 10px;">
 <img loading="lazy" src="https://avatars.githubusercontent.com/Vitorr-AF" width=120>
-<p style="font-size:min(2vh, 36px); margin-top: 10px;">Vitor Augusto França de Oliveira - RM 555469</p>
+<p style="font-size:min(2vh, 36px); margin-top: 10px;">Vitor Augusto França - RM 555469</p>
 </a>
 <a href="https://github.com/Geronimo-augusto" target="_blank" style="text-align: center; margin-right: 10px;">
 <img loading="lazy" src="https://avatars.githubusercontent.com/Geronimo-augusto" width=120>
